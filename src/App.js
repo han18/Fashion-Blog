@@ -1,5 +1,5 @@
 import "./App.css";
-import { Container } from "../../styled";
+import { Container } from "../src/styled";
 import Article from "./Components/body/Article";
 import Header from "./Components/header/Header";
 import Nav from "./Components/header/Nav";

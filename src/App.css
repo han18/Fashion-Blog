@@ -6,6 +6,23 @@ h6 {
   color: green;
 }
 
+#navbar {
+  display: flex;
+}
+
+ul {
+  list-style: none;
+  justify-content: center;
+}
+
+li {
+  align-content: space-around;
+}
 a {
-  text-decoration: none;
+  color: pink;
+  display: flex;
+}
+
+img {
+  width: 85%;
 }
