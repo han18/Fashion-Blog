@@ -1,10 +1,8 @@
-import { ALink } from "../../styled";
-
 function Nav() {
   return (
     <div>
       <nav>
-        <ALink>
+        <ul>
           <li>
             {" "}
             <a href="">Women's</a>
@@ -29,7 +27,7 @@ function Nav() {
             {" "}
             <a href="">About</a>
           </li>
-        </ALink>
+        </ul>
       </nav>
     </div>
   );

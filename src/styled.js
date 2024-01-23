@@ -7,13 +7,13 @@ export const Container = styled.div`
   border: 1px solid gray;
 `;
 
-export const H1 = styled.h1`
-  color: red;
-`;
+// export const H1 = styled.h1`
+//   color: red;
+// `;
 
-export const ALink = styled.nav`
-  color: red;
-  display: flex;
-  justify-content: center;
-  text-decoration: none;
-`;
+// export const ALink = styled.nav`
+//   color: red;
+//   display: flex;
+//   justify-content: center;
+//   text-decoration: none;
+// `;

@@ -1,11 +1,12 @@
 import "./App.css";
-import HomePage from "./Components/homepage/HomePage";
+import Header from "./Components/header/Header";
+import Nav from "./Components/header/Nav";
 
 function App() {
   return (
     <div>
-      <h1>App.js file Main Root-Fashion Blog</h1>
-      <HomePage />
+      <Header />
+      <Nav />
     </div>
   );
 }

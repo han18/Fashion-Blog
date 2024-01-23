@@ -5,7 +5,6 @@ import Article from "../body/Article";
 function HomePage() {
   return (
     <Container>
-      <h1>This is the homepage</h1>
       <Header />
       <Article />
     </Container>
