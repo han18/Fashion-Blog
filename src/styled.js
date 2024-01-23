@@ -11,8 +11,9 @@ export const H1 = styled.h1`
   color: red;
 `;
 
-export const ALink = styled.div`
+export const ALink = styled.nav`
   color: red;
   display: flex;
   justify-content: center;
+  text-decoration: none;
 `;
