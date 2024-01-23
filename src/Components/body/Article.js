@@ -1,7 +1,8 @@
 function Article() {
   return (
     <div>
-      <h6>The Article</h6>
+      <p>11/12/20</p>
+      <h1>On the Street in Brooklyn</h1>
     </div>
   );
 }
