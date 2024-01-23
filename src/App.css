@@ -2,25 +2,40 @@ p {
   color: blueviolet;
 }
 
+h1 {
+  color: rgb(204, 7, 7);
+  margin-right: 20px;
+  padding: 20px;
+}
+
+h3 {
+  color: rgb(43, 41, 41);
+  margin-right: 20px;
+  padding: 20px;
+}
+
 h6 {
   color: green;
 }
 
-#navbar {
+/* .navbar {
   display: flex;
-}
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: space-between;
+} */
 
 ul {
-  list-style: none;
+  display: flex;
   justify-content: center;
+  justify-content: space-between;
+  justify-content: space-around;
+  list-style: none;
 }
 
-li {
-  align-content: space-around;
-}
 a {
-  color: pink;
-  display: flex;
+  color: gray;
 }
 
 img {
