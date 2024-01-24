@@ -2,7 +2,7 @@ function Article() {
   return (
     <div>
       <h4>11/12/20</h4>
-      <h1>On the Street in Brooklyn</h1>
+      <h1 className="headOne">On the Street in Brooklyn</h1>
       <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-1.jpg" />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -33,6 +33,7 @@ function Article() {
         exact original form, accompanied by English versions from the 1914
         translation by H. Rackham.
       </p>
+      <h3>Continue...</h3>
       <hr />
     </div>
   );

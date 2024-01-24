@@ -2,7 +2,7 @@ function ArticleTwo() {
   return (
     <div>
       <h4>11/12/20</h4>
-      <h1>On the Street in Brooklyn</h1>
+      <h1 className="headOne">Vintage Vogue</h1>
       <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-2.jpg" />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
