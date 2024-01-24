@@ -1,6 +1,6 @@
 function Article() {
   return (
-    <div>
+    <article>
       <h4>11/12/20</h4>
       <h1 className="headOne">On the Street in Brooklyn</h1>
       <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-1.jpg" />
@@ -35,7 +35,7 @@ function Article() {
       </p>
       <h3>Continue...</h3>
       <hr />
-    </div>
+    </article>
   );
 }
 
