@@ -1,30 +1,33 @@
 p {
-  color: blueviolet;
+  color: rgb(92, 92, 93);
+  margin: 20px;
+  padding: 20px;
 }
 
 h1 {
   color: rgb(204, 7, 7);
-  margin-right: 20px;
-  padding: 20px;
+  margin-left: 20px;
 }
 
 h3 {
   color: rgb(43, 41, 41);
-  margin-right: 20px;
+  margin-left: 20px;
   padding: 20px;
+}
+
+h5 {
+  color: gray;
+  margin-left: 20px;
+}
+
+h4 {
+  color: rgb(123, 123, 123);
+  margin-left: 20px;
 }
 
 h6 {
   color: green;
 }
-
-/* .navbar {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  align-content: space-between;
-} */
 
 ul {
   display: flex;
@@ -39,5 +42,6 @@ a {
 }
 
 img {
-  width: 85%;
+  width: 90%;
+  margin: 20px;
 }

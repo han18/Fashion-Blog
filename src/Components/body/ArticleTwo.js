@@ -1,9 +1,9 @@
-function Article() {
+function ArticleTwo() {
   return (
     <div>
       <h4>11/12/20</h4>
       <h1>On the Street in Brooklyn</h1>
-      <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-1.jpg" />
+      <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-2.jpg" />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
@@ -38,4 +38,4 @@ function Article() {
   );
 }
 
-export default Article;
+export default ArticleTwo;

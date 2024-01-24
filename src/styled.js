@@ -6,9 +6,3 @@ export const Container = styled.div`
 
   border: 1px solid gray;
 `;
-
-// export const Navbar = styled.nav`
-//   display: flex;
-//   justify-content: center;
-//   list-style: none;
-// `;
