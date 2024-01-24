@@ -7,6 +7,7 @@ p {
 h1 {
   color: rgb(204, 7, 7);
   margin-left: 20px;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h3 {
