@@ -3,7 +3,10 @@ function ArticleTwo() {
     <div>
       <h4>11/12/20</h4>
       <h1 className="headOne">Vintage in Vogue</h1>
-      <img src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-2.jpg" />
+      <img
+        src="https://ps-react-curriculum.herokuapp.com/fashionblog/blog-image-2.jpg"
+        alt="People in the past"
+      />
       <p>
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
